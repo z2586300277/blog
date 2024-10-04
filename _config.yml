@@ -103,4 +103,4 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/z2586300277/blog.git
-  branch: pages
+  branch: gh-pages
