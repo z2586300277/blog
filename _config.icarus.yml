@@ -128,83 +128,83 @@ footer:
             url: https://github.com/z2586300277
 # Article related configurations
 article:
-    # Code highlight settings
-    highlight:
-        # Code highlight themes
-        # https://github.com/highlightjs/highlight.js/tree/master/src/styles
-        theme: atom-one-light
-        # Show copy code button
-        clipboard: true
-        # Default folding status of the code blocks. Can be "", "folded", "unfolded"
-        fold: unfolded
-    # Whether to show estimated article reading time
-    readtime: true
-    # Whether to show updated time. For "auto", shows article update time only when page.updated is set and it is different from page.date
-    update_time: true
-    # Article licensing block
-    licenses:
-        Creative Commons:
-            icon: fab fa-creative-commons
-            url: https://creativecommons.org/
-        Attribution:
-            icon: fab fa-creative-commons-by
-            url: https://creativecommons.org/licenses/by/4.0/
-        Noncommercial:
-            icon: fab fa-creative-commons-nc
-            url: https://creativecommons.org/licenses/by-nc/4.0/
-# Search plugin configurations
-# https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Search/
-search:
-    type: insight
-    # Whether to include pages in the search results
-    index_pages: true
-# Comment plugin configurations
-# https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment/
-comment:
-    type: disqus
-    # Disqus shortname
-    shortname: ''
+#     # Code highlight settings
+#     highlight:
+#         # Code highlight themes
+#         # https://github.com/highlightjs/highlight.js/tree/master/src/styles
+#         theme: atom-one-light
+#         # Show copy code button
+#         clipboard: true
+#         # Default folding status of the code blocks. Can be "", "folded", "unfolded"
+#         fold: unfolded
+#     # Whether to show estimated article reading time
+#     readtime: true
+#     # Whether to show updated time. For "auto", shows article update time only when page.updated is set and it is different from page.date
+#     update_time: true
+#     # Article licensing block
+#     licenses:
+#         Creative Commons:
+#             icon: fab fa-creative-commons
+#             url: https://creativecommons.org/
+#         Attribution:
+#             icon: fab fa-creative-commons-by
+#             url: https://creativecommons.org/licenses/by/4.0/
+#         Noncommercial:
+#             icon: fab fa-creative-commons-nc
+#             url: https://creativecommons.org/licenses/by-nc/4.0/
+# # Search plugin configurations
+# # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Search/
+# search:
+#     type: insight
+#     # Whether to include pages in the search results
+#     index_pages: true
+# # Comment plugin configurations
+# # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment/
+# comment:
+#     type: disqus
+#     # Disqus shortname
+#     shortname: ''
 # Donate plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Donation/
 donates:
-    # "Afdian.net" donate button configurations
-    -
-        type: afdian
-        # URL to the "Afdian.net" personal page
-        url: ''
-    # Alipay donate button configurations
-    -
-        type: alipay
-        # Alipay qrcode image URL
-        qrcode: ''
-    # "Buy me a coffee" donate button configurations
-    -
-        type: buymeacoffee
-        # URL to the "Buy me a coffee" page
-        url: ''
-    # Patreon donate button configurations
-    -
-        type: patreon
-        # URL to the Patreon page
-        url: ''
-    # Paypal donate button configurations
-    -
-        type: paypal
-        # Paypal business ID or email address
-        business: ''
-        # Currency code
-        currency_code: USD
-    # Wechat donate button configurations
-    -
-        type: wechat
-        # Wechat qrcode image URL
-        qrcode: ''
+    # # "Afdian.net" donate button configurations
+    # -
+    #     type: afdian
+    #     # URL to the "Afdian.net" personal page
+    #     url: ''
+    # # Alipay donate button configurations
+    # -
+    #     type: alipay
+    #     # Alipay qrcode image URL
+    #     qrcode: ''
+    # # "Buy me a coffee" donate button configurations
+    # -
+    #     type: buymeacoffee
+    #     # URL to the "Buy me a coffee" page
+    #     url: ''
+    # # Patreon donate button configurations
+    # -
+    #     type: patreon
+    #     # URL to the Patreon page
+    #     url: ''
+    # # Paypal donate button configurations
+    # -
+    #     type: paypal
+    #     # Paypal business ID or email address
+    #     business: ''
+    #     # Currency code
+    #     currency_code: USD
+    # # Wechat donate button configurations
+    # -
+    #     type: wechat
+    #     # Wechat qrcode image URL
+    #     qrcode: ''
 # Share plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Share/
 share:
-    type: sharethis
+    # type: sharethis
     # URL to the ShareThis share plugin script
-    install_url: ''
+    # install_url: ''
 # Sidebar configurations.
 # Please be noted that a sidebar is only visible when it has at least one widget
 sidebar:
@@ -279,42 +279,3 @@ widgets:
     # Categories widget configurations
 # Plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/
-plugins:
-    # Enable page startup animations
-    animejs: true
-    # Show the "back to top" button
-    back_to_top: true
-    # Baidu Analytics plugin settings
-    # https://tongji.baidu.com
-    baidu_analytics:
-        # Baidu Analytics tracking ID
-        tracking_id: 
-    # Bing Webmaster Tools plugin settings
-    # https://www.bing.com/toolbox/webmaster/
-    bing_webmaster:
-        # Bing Webmaster Tools tracking ID in the <meta> tag
-        tracking_id: 
-    # BuSuanZi site/page view counter
-    # https://busuanzi.ibruce.info
-    busuanzi: false
-    # CNZZ statistics
-    # https://www.umeng.com/web
-    cnzz:
-        # CNZZ tracker id
-        id: 
-        # CNZZ website id
-        web_id: 
-    # Alerting users about the use of cookies
-    # https://www.osano.com/cookieconsent/
-    cookie_consent:
-        # The compliance type. Can be "info", "opt-in", or "opt-out"
-        type: info
-        # Theme of the popup. Can be "block", "edgeless", or "classic"
-        theme: edgeless
-        # Whether the popup should stay static regardless of the page scrolls
-        static: false
-        # Where on the screen the consent popup should display
-        position: bottom-left
-        # URL to your site's cookie policy
-        policyLink: https://www.cookiesandyou.com/
-
