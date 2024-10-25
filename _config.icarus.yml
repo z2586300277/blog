@@ -107,9 +107,7 @@ navbar:
     menu:
         主页: /
         归档: /archives
-        分类: /categories
         标签: /tags
-        关于: /about
     # Links to be shown on the right of the navigation bar
     links:
         Download on GitHub:
@@ -239,22 +237,7 @@ widgets:
         # URL or path for the follow button
         follow_link: https://github.com/z2586300277
         # Links to be shown on the bottom of the profile widget
-        social_links:
-            Github:
-                icon: fab fa-github
-                url: https://github.com/z2586300277
-            Facebook:
-                icon: fab fa-facebook
-                url: https://facebook.com
-            Twitter:
-                icon: fab fa-twitter
-                url: https://twitter.com
-            Dribbble:
-                icon: fab fa-dribbble
-                url: https://dribbble.com
-            RSS:
-                icon: fas fa-rss
-                url: /
+
     # Table of contents widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
