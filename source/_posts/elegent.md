@@ -1,14 +1,18 @@
-# 优雅永不过时 👋 
+---
+title: 优雅永不过时 👋 
+date: 2024-11-08 10:38:29
+tags: user
 
+---
 - 🔥在剩余的时间里，用我的生命之火，探索人生的意义。  
 
-- 🍃原生Three.js Cesium.js案例仓库 https://github.com/z2586300277/three-cesium-examples 持续更新中
-  
-- 🍁3D低代码组态编辑器仓库 https://github.com/z2586300277/three-editor
+- 🍃3D案例 https://github.com/z2586300277/three-cesium-examples 
 
-- 📦npm包形式易用型 Three.js低代码编辑器内核  https://www.npmjs.com/package/three-editor-cores
+- 🍁3D编辑器 https://github.com/z2586300277/three-editor
 
-- 🐳npm包源码仓库 https://github.com/z2586300277/three-editor-cores
+- 📦npm编辑器内核  https://www.npmjs.com/package/three-editor-cores
+
+- 🐳编辑器内核源码 https://github.com/z2586300277/three-editor-cores
 
 - 📗Hexo博客 https://z2586300277.github.io/blog
 
