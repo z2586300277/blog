@@ -257,6 +257,7 @@ widgets:
         name: 站点
         # Names and URLs of the sites
         links:
+            Home: https://z2586300277.github.io/
             threehub.cn : https://threehub.cn
             three-editor: https://z2586300277.github.io/three-editor/dist/
             three-cesium-examples: https://z2586300277.github.io/three-cesium-examples
