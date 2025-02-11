@@ -7,7 +7,7 @@ logo: https://z2586300277.github.io/three-cesium-examples/files/author/z25863002
 # Page metadata configurations
 head:
     # URL or path to the website's icon
-    favicon: /img/favicon.svg
+    favicon: https://z2586300277.github.io/three-cesium-examples/files/author/z2586300277.png
     # Web application manifests configuration
     # https://developer.mozilla.org/en-US/docs/Web/Manifest
     manifest:
@@ -258,7 +258,6 @@ widgets:
         # Names and URLs of the sites
         links:
             Home: https://z2586300277.github.io/
-            threehub.cn : https://threehub.cn
             three-editor: https://z2586300277.github.io/three-editor/dist/
             three-cesium-examples: https://z2586300277.github.io/three-cesium-examples
     # Categories widget configurations

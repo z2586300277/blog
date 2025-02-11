@@ -10,4 +10,4 @@ author: 'z2586300277'
 
 github 仓库地址 https://github.com/z2586300277/three-cesium-examples
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113242567346031&bvid=BV1USxQeDEQb&cid=26121735952&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113699897475996&bvid=BV1ANC3YHESA&cid=27483901796&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true " width="100%" height="400px" ></iframe>
