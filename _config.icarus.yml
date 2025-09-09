@@ -225,17 +225,17 @@ widgets:
         # Author name
         author: 优雅永不过时
         # Author title
-        author_title: 三维
+
         # Author's current location
         location: 中国 · 北京
         # URL or path to the avatar image
-        avatar: https://z2586300277.github.io/three-cesium-examples/files/site/logo.svg
+        avatar: https://z2586300277.github.io/files/elegant.svg
         # Whether show the rounded avatar image
         avatar_rounded: false
         # Email address for the Gravatar
         gravatar: 
         # URL or path for the follow button
-        follow_link: https://github.com/z2586300277
+        # follow_link: https://github.com/z2586300277
         # Links to be shown on the bottom of the profile widget
 
     # Table of contents widget configurations
@@ -257,9 +257,10 @@ widgets:
         name: 站点
         # Names and URLs of the sites
         links:
-            Home: https://z2586300277.github.io/
-            three-editor: https://z2586300277.github.io/three-editor/dist/
-            three-cesium-examples: https://z2586300277.github.io/three-cesium-examples
+            主页: https://z2586300277.github.io/
+            开源案例: https://z2586300277.github.io/three-cesium-examples
+            编辑器: https://z2586300277.github.io/three-editor/dist/
+            新编辑器: https://z2586300277.github.io/editor-docs/
     # Categories widget configurations
 # Plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/
